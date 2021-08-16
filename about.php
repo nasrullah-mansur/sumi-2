@@ -40,16 +40,16 @@
             <div class="row">
                 <div class="col-lg-7 col-md-12">
                     <div class="about-contact-area">
-                        <div class="about-heading">
+                        <div class="about-heading wow fadeInLeft">
                             <h2>About Amasci Creative</h2>
                         </div>
-                        <div class="about-text">
+                        <div class="about-text wow fadeInLeft">
                             <p>
                                 Our clients <strong>trust our team to look after everything</strong>; from logo creation and brand development; through to websites, eCommerce and email marketing.<strong>Our experience speaks for itself</strong>. We have clients from a broad spectrum of industries and markets; comprising of large organisations to sole traders; and well established companies to new business start-ups.
                             </p>
                         </div>
-                        <div class="row">
-                            <div class="col-lg-6 col-md-12">
+                        <div class="row m-0">
+                            <div class="col-lg-6 col-md-12 wow fadeInLeft">
                                 <div class="about-content">
                                     <p>
                                         We put our success down to several things: our ability to mix creative flair with technical expertise; our willingness to keep pace with the ever-changing digital landscape; and, most importantly, our aim to build long-term relationships with our clients and always give the very best service we can.
@@ -61,7 +61,7 @@
                                     </p>
                                 </div>
                             </div>
-                            <div class="col-lg-6 col-md-12">
+                            <div class="col-lg-6 col-md-12 wow fadeInLeft">
                                 <div class="about-image">
                                     <img src="assets/images/creative-process.svg" alt="image" />
                                 </div>
@@ -69,8 +69,8 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-5 col-lg-12">
-                    <div class="about-contact-area">
+                <div class="col-lg-5 col-md-12">
+                    <div class="about-contact-area fadeInRight wow">
                         <div class="about-heading">
                             <h2>About Amasci Creative</h2>
                         </div>
@@ -96,7 +96,6 @@
         </div>
     </section>
     <!-- about-contact end -->
-
 
     <!-- about-testi start -->
     <section class="about-testi">
@@ -127,12 +126,12 @@
     <section class="about-gallery">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-5 col-md-12">
+                <div class="col-lg-5 col-md-12 wow fadeInLeft">
                     <div class="about-gallery-img">
                         <img src="assets/images/plowman-craven-w1600.png" alt="image" />
                     </div>
                 </div>
-                <div class="col-lg-7 col-md-12">
+                <div class="col-lg-7 col-md-12 wow fadeInRight">
 
                     <div class="about-gallery-area">
                         <h2>Inspired creative</h2>
@@ -205,7 +204,7 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".1s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#"><i class="fas fa-book-open"></i></a>
@@ -218,7 +217,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".2s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#">
@@ -233,7 +232,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".3s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#"><i class="fas fa-hands"></i></a>
@@ -246,7 +245,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".4s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#"><i class="fas fa-book-open"></i></a>
@@ -259,7 +258,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".5s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#">
@@ -274,7 +273,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".6s"> 
                     <div class="team-area">
                         <div class="team-icon">
                             <a href="#"><i class="fas fa-hands"></i></a>

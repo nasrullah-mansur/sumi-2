@@ -230,7 +230,6 @@ ul {
   position: relative;
   line-height: 38px;
   padding: 100px 20px;
-  background-color: #fff;
   font-size: 28px;
   color: var(--heading-color);
   z-index: 1;
@@ -252,12 +251,13 @@ ul {
 .section-heading h2::after {
   content: '';
   width: 100%;
-  height: 100%;
+  height: 60px;
   position: absolute;
-  top: 0;
+  top: 50%;
   left: 0;
   z-index: -1;
   background-color: #fff;
+  transform: translateY(-50%);
 }
 
 
@@ -1123,6 +1123,7 @@ ul {
 .port-gallery .port-image img {
   width: 100%;
   height: 500px;
+  object-fit: cover;
 }
 
 .port-gallery .port-image .overlay-one {
@@ -1152,8 +1153,9 @@ ul {
   left: 0;
   z-index: 2;
   opacity: 0;
-  transform: scale(0);
+  transform: scale(.85);
   cursor: pointer;
+  transition: all ease .4s;
 }
 
 .port-gallery .port-image:hover .overlay-two {
@@ -1162,17 +1164,17 @@ ul {
   transform: scale(1);
 }
 
-.port-gallery .port-image:hover .overlay-two .port-layout {
+.port-gallery .port-image .overlay-two .port-layout {
   color: var(--white);
   text-align: center;
   margin-top: 25%;
 }
 
-.port-gallery .port-image:hover .overlay-two .port-layout .port-layout-btn .btn-sm {
+.port-gallery .port-image .overlay-two .port-layout .port-layout-btn .btn-sm {
   margin-top: 24px;
 }
 
-.port-gallery .port-image:hover .overlay-two .port-layout .port-layout-btn .btn-sm:hover {
+.port-gallery .port-image .overlay-two .port-layout .port-layout-btn .btn-sm:hover {
   color: var(--white);
 }
 
@@ -2174,3 +2176,213 @@ ul {
 
 
 
+/* =====service details area==== */
+
+.service-details {
+  padding: 100px 0;
+}
+
+.service-details .service-details-icon i {
+  color: var(--icon-two-color);
+  font-size: 100px;
+}
+
+.service-details .service-details-title h2 {
+  line-height: 42px;
+  font-size: 32px;
+  font-weight: 400;
+  margin-bottom: 24px;
+  color: var(--icon-two-color);
+  margin-top: 45px;
+  margin-left: 15px;
+}
+
+.service-details .service-details-content .color-heading {
+  line-height: 25px;
+  font-size: 15px;
+  color: var(--icon-two-color);
+  margin-bottom: 24px;
+}
+
+.service-details .service-details-content p {
+  line-height: 25px;
+  font-size: 15px;
+  color: var(--heading-color);
+  margin-bottom: 24px;
+}
+
+
+.service-details .service-details-content .service-details-image img {
+  max-width: 100%;
+  height: 550px;
+  margin: 24px 0;
+}
+
+.service-details .service-details-content h2 {
+  line-height: 42px;
+  font-size: 32px;
+  font-weight: 400;
+  color: var(--heading-color);
+  margin: 24px 0;
+}
+
+.service-details .service-details-content strong {
+  color: var(--bgThree);
+}
+
+.service-details .service-details-content .mail {
+  color: var(--primary-color);
+}
+
+.service-details .service-details-list {
+  padding: 20px;
+  background-color: #eeedda;  
+}
+
+.service-details .service-details-list .service-map-image img {
+  max-width: 100%;
+}
+
+.service-details .service-details-list h2 {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 400;
+  font-style: italic;
+  color: var(--icon-two-color);
+  margin: 24px 0;
+}
+
+.service-details .service-details-list p {
+  line-height: 25px;
+  font-size: 15px;
+  font-style: italic;
+  color: var(--heading-color);
+  margin: 24px 0;
+}
+
+.service-details .service-details-list ul {
+  list-style: disc;
+}
+
+.service-details .service-details-list ul li {
+  line-height: 25px;
+  font-size: 15px;
+  margin: 12px;
+  margin-bottom: 0;
+  color: var(--heading-color);
+}
+
+
+.service-details .service-details-list .details-btn .btn-sm {
+  font-size: 15px;
+  font-style: italic;
+  background-color: var(--icon-two-color);
+  color: var(--white);
+  margin-right: 15px;
+}
+
+
+.service-details .service-details-list .details-btn .btn-sm i {
+  margin-right: 5px;
+}
+
+
+.service-details .service-related h3 {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: 400;
+  color: var(--heading-color);
+  margin-top: 60px;
+  margin-bottom: 24px;
+}
+
+
+.service-details .service-related-icon a {
+  margin-left: 20px;
+}
+
+.service-details .service-related-icon a i {
+  font-size: 25px;
+  margin-right: 10px;
+  color: var(--primary-color);
+}
+
+
+.service-details .service-related-text p {
+  line-height: 25px;
+  font-size: 15px;
+  font-weight: 300;
+  margin-bottom: 0;
+  color: var(--primary-color);
+}
+
+.service-details .service-related-text p:hover {
+  color: var(--icon-three-color);
+}
+
+.service-details .service-related-text span {
+  font-size: 13px;
+  margin-top: 0;
+}
+
+.service-details .service-related-social ul li a {
+  display: inline-block;
+  line-height: 30px;
+  font-size: 13px;
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  margin-left: 20px;
+
+}
+
+.service-details .service-related-social ul li .twiter {
+  background-color: #00ACED;
+}
+
+.service-details .service-related-social ul li .twiter i  {
+  color: var(--white);
+}
+
+.service-details .service-related-social ul li .facebook {
+  background-color: #3B5998;
+}
+
+.service-details .service-related-social ul li .facebook i  {
+  color: var(--white);
+}
+
+.service-details .service-related-social ul li .google {
+  background-color: #DD4B39;
+}
+
+.service-details .service-related-social ul li .google i  {
+  color: var(--white);
+}
+
+.service-details .service-related-social ul li .chorme {
+  background-color: #007BB6;
+}
+
+.service-details .service-related-social ul li .chorme i  {
+  color: var(--white);
+}
+
+.service-details .service-related-social ul li .linkedin {
+  background-color: #C0C0C0;
+}
+
+.service-details .service-related-social ul li .linkedin i  {
+  color: var(--white);
+}
+
+
+.service-home .details .sevice-icon a i {
+  font-size: 40px;
+}
+
+.service-home .details .h-details h3 {
+  font-size: 15px;
+
+}

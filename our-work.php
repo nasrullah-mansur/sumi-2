@@ -35,7 +35,7 @@
     <section class="work-site">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeIn">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-1.png" alt="image" />
@@ -53,7 +53,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeIn">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-2.png" alt="image" />
@@ -71,7 +71,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12">
+                <div class="col-lg-4 col-md-12 wow fadeIn">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-3.png" alt="image" />
@@ -89,7 +89,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-4.png" alt="image" />
@@ -107,7 +107,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-5.png" alt="image" />
@@ -125,7 +125,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-6.png" alt="image" />
@@ -143,7 +143,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-1.png" alt="image" />
@@ -161,7 +161,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-2.png" alt="image" />
@@ -179,7 +179,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-3.png" alt="image" />
@@ -197,7 +197,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-4.png" alt="image" />
@@ -215,7 +215,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-5.png" alt="image" />
@@ -233,7 +233,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-3.png" alt="image" />
@@ -251,7 +251,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-1.png" alt="image" />
@@ -269,7 +269,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-2.png" alt="image" />
@@ -287,7 +287,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-3.png" alt="image" />
@@ -305,7 +305,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-4.png" alt="image" />
@@ -323,7 +323,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-5.png" alt="image" />
@@ -341,7 +341,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-12 my">
+                <div class="col-lg-4 col-md-12 wow fadeIn my">
                     <div class="work-site-content">
                         <div class="work-site-image">
                             <img src="assets/images/work-3.png" alt="image" />

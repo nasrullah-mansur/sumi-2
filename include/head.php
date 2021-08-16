@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="assets/css/all.min.css" />
     <link rel="stylesheet" href="assets/css/icofont.css" />
     <link rel="stylesheet" href="assets/webfonts/flaticon/flaticon.css" />
+    <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/slick.css" />
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
 

@@ -5,7 +5,7 @@ $(document).ready(function() {
   
   "use strict";
 
-
+  new WOW().init();
 
 // Back To Top
   $(window).scroll(function() {
