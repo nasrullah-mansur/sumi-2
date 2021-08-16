@@ -1,103 +1,14 @@
 <!DOCTYPE html>
 <html lang="zxx">
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-        <title> Portfolio Project </title>
-
-        <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-        <link rel="stylesheet" href="assets/css/lineicons.css" />
-        <link rel="stylesheet" href="assets/css/all.min.css" />
-        <link rel="stylesheet" href="assets/css/icofont.css" />
-        <link rel="stylesheet" href="assets/webfonts/flaticon/flaticon.css" />
-        <link rel="stylesheet" href="assets/css/slick.css" />
-
-        <!-- Main CSS -->
-        <link rel="stylesheet" href="assets/css/style.css" />
-        <link rel="stylesheet" href="assets/css/responsive.css" />
-
-    </head>
+    <?php
+        include 'include/head.php';
+    ?>
 
     <body>
 
-    <!-- Back To Top -->
-
-    <div class="back-to-top">
-        <i class="fas fa-arrow-up"></i>
-    </div>
-
-    <div class="body-overlay"></div>
-
-
-    <!-- Navbar Start -->
-   <nav class="navbar">
-       <div class="container">
-           <div class="nav-content">
-                <div class="logo">
-                    <a href="#">
-                        <img src="assets/images/logo-white.svg" alt="logo">
-                    </a>
-                </div>
-                <div class="list">
-                    <div class="mobile-menu">
-                        <i class="show-menu fas fa-bars"></i>
-                    </div>
-                    <div class="mobile-menu">
-                        <i class="fas show-search fa-search"></i>
-                    </div>
-                    <div class="mobile">
-                        <a href="#">01908 668 665</a>
-                    </div>
-                    <div class="menu">
-                        <i class="fas fa-times"></i>
-                        <ul>
-                            <li><a href="#"><i class="fas fa-home"></i></a></li>
-                            <li class="active"><a href="#">about</a></li>
-                            <li><a href="#">services</a></li>
-                            <li><a href="#">our works</a></li>
-                            <li><a href="#">testimonials</a></li>
-                            <li><a href="#">news</a></li>
-                            <li><a href="#">contact</a></li>
-                        </ul>
-                    </div>
-                </div>
-           </div>
-       </div>
-   </nav>
-    <!-- Navbar End -->
-
-    <!-- link part Start -->
-
-    <section>
-        <div class="link-area">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-6 col-md-6 mb-2">
-                        <div class="link-text">
-                            <span>
-                                design .
-                                <strong>web</strong>
-                                . marketing . branding
-                            </span>
-                        </div>    
-                    </div>
-    
-                    <div class="col-lg-6 col-md-6 search-area d-none d-md-block">
-                        <div class="link-search text-right">
-                            <form>
-                                <input type="search" name="search" id="search" placeholder="Enter Keyword">
-                            </form>
-                        </div>    
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <!-- link part End-->
+    <?php
+        include 'include/header.php';
+    ?>
 
 
     <!-- Banner Start -->
@@ -647,138 +558,13 @@
     <!-- testimonial end -->
 
 
-    <!-- footer start -->
-    <footer class="footer-top t-bottom">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-6 col-md-6">
-                    <div class="footer-top-area">
-                        <div class="footer-top-logo">
-                            <img src="assets/images/logo-white.svg" alt="logo" />
-                        </div>
-                        <div class="footer-top-contact">
-                            <ul>
-                                <li class="phone"><a href="#">01908 668 665</a></li>
-                                <li class="mail"><a href="#">creative@amasci.co.uk</a></li>
-                            </ul>
-                            <p>
-				                Corner House, 
-                                4 Roslyn Court, 
-                                Willen, Milton Keynes, 
-                                Buckinghamshire, 
-                                MK15 9LA			
-                            </p>
-                        </div>
-                        <div class="footer-top-list">
-                            <h3>Follow us</h3>
-                            <ul class="d-flex">
-                                <li>
-                                    <a href="#"><i class="fab fa-twitter"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-chrome"></i></a>
-                                </li>
-                                <li>
-                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                </li>
-                            </ul>        
-                        </div>
+    <?php
+        include 'include/footer.php';
+        include 'include/script.php';
+    ?>
 
 
-                    </div>
-                </div>
-
-                <div class="col-lg-6 col-md-6">
-                    <div class="footer-top-article">
-                        <div class="footer-top-text">
-                            <h3>The legals</h3>
-
-                            <p>
-                                Amasci Creative Limited is registered in England and Wales Company number 6559198 and VAT number GB 910 0251 90
-                            </p>			
-                            <p>
-                                Website © Amasci Creative Limited 2014 - 2021
-                                Amasci Creative Limited is a web design and digital marketing agency based in Milton Keynes, Buckinghamshire
-                            </p>
-                        </div>
-
-                        <div class="footer-top-content d-flex">
-                            <div class="footer-bottom-logo">
-                                <img src="assets/images/logo-web-guild-white.svg" alt="logo" />
-                            </div>
-                            <div class="footer-top-para">
-                                <p>
-                                    We are accredited members of The Web Guild.<br><strong>Fully Accredited Members</strong>.
-                                </p>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-
-        <nav>
-            <div class="container">
-                <div class="nav-list d-flex">
-                    <ul class="d-flex">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Ai eShots</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Our Work</a></li>
-                        <li><a href="#">Testimonial</a></li>
-                        <li><a href="#">News</a></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Contact</a></li>
-                    </ul>
-                    <div class="nav-btn d-none d-lg-block">
-                        <a class="btn-sm" href="#">Webmail Login</a>
-                        <a class="btn-sm" href="#">Ai eShots Login</a>
-                    </div>
-                </div>
-                <div class="nav-terms">
-                    <ul class="d-flex">
-                        <li><a href="#">Hosting</a></li>
-                        <li><a href="#">Domains</a></li>
-                        <li><a href="#">Cookies</a></li>
-                        <li><a href="#">Privacy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-
-    </footer>
-    <!-- footer end -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        <!-- ========================== -->
-        <!-- All Jquery -->
-        <!-- ========================== -->
-        <script src="assets/js/jquery.2.2.4.min.js"></script>
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
-        <script src="assets/js/slick.min.js"></script>
-        <script src="assets/js/custom.js"></script>
+        
         
     </body>
     </html>
