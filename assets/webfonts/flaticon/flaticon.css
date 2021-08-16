@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?f7408666240682371cc270c206ece34d") format("truetype"),
+url("./flaticon.woff?f7408666240682371cc270c206ece34d") format("woff"),
+url("./flaticon.woff2?f7408666240682371cc270c206ece34d") format("woff2"),
+url("./flaticon.eot?f7408666240682371cc270c206ece34d#iefix") format("embedded-opentype"),
+url("./flaticon.svg?f7408666240682371cc270c206ece34d#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-improvement:before {
+    content: "\f101";
+}
+.flaticon-settings:before {
+    content: "\f102";
+}
+.flaticon-mobile-app:before {
+    content: "\f103";
+}
+.flaticon-pencil:before {
+    content: "\f104";
+}
+.flaticon-volume:before {
+    content: "\f105";
+}
+.flaticon-ux-interface:before {
+    content: "\f106";
+}
+.flaticon-project-management:before {
+    content: "\f107";
+}
+.flaticon-handshake:before {
+    content: "\f108";
+}
+.flaticon-growth:before {
+    content: "\f109";
+}
+.flaticon-star:before {
+    content: "\f10a";
+}
