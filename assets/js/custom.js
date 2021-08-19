@@ -39,7 +39,13 @@ $(document).ready(function() {
     $('.search-area').toggleClass('d-none');
   });
 
-
+$('.contact-form .project .checkbox label').on('click', function() {
+  if($(this).children('input').is(':checked')) {
+    $(this).addClass('active');
+  } else {
+    $(this).removeClass('active');
+  }
+})
 
   
 });

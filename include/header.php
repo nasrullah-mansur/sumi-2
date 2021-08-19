@@ -13,7 +13,7 @@
            <div class="nav-content">
                 <div class="logo wow fadeInDown">
                     <a href="index.php">
-                        <img src="assets/images/logo-white.svg" alt="logo">
+                        <img src="assets/images/logo.png" alt="logo">
                     </a>
                 </div>
                 <div class="list">
@@ -24,7 +24,7 @@
                         <i class="fas show-search fa-search"></i>
                     </div>
                     <div class="mobile wow fadeInDown">
-                        <a href="#">01908 668 665</a>
+                        <a href="#">061 542 9391</a>
                     </div>
                     <div class="menu">
                         <i class="fas fa-times"></i>

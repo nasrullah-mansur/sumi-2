@@ -19,7 +19,7 @@
                 <div class="col-lg-6 col-md">
                     <div class="banner-content">
                         <h1 class="wow fadeInLeft">
-                            <span>Bespoke responsive</span>
+                            <span>Professional responsive</span>
                             <strong>website design</strong>
                             <span>and</span> 
                             <strong>digital marketing</strong> 
@@ -27,9 +27,8 @@
                             
                         </h1>                    
                         <p class="wow fadeInLeft" data-wow-delay=".2s">
-                            We are Amasci Creative, <strong>an award winning web design agency in Milton Keynes.
-                            </strong> 
-                            We work with businesses in the local area and beyond to create fully bespoke, responsive websites, help you get closer to your customers through email marketing and allow more people to discover you online.
+                        We are <strong>Nexsus</strong> Creative, a <strong>web design agency in Kwa-Zulu Natal , South Africa</strong>. 
+                            We work with businesses in the local area and beyond to create fully Professional, responsive websites, help you get closer to your customers through email marketing and allow more people to discover you online.
                         </p>
                         <p class="wow fadeInLeft" data-wow-delay=".4s">
                             We can help you start right at the beginning, with a logo and brand identity, or work with your existing branding. Whatever stage you’re at, we’ll be happy to guide you through the process and look forward to crafting a site that’s beautiful, functional and totally unique.
@@ -66,37 +65,10 @@
 
     
 
-    <!-- contact start -->
-    <section class="contact t-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg">
-                    <div class="contact-area text-center wow fadeInUp">
-                        <div class="contact-text">
-                            <p>
-                                <strong>Every project is different and we’d love to hear about yours</strong>
-                                <br>
-                                Get in touch today to find out how we can help…
-                            </p>
-                        </div>
-                        <div class="contact-mail d-none d-sm-block">
-                            <ul>
-                                <li class="phone"><a href="#">01908 668 665</a></li>
-                                <li class="mail"><a href="#">creative@amasci.co.uk</a></li>
-                            </ul>
-                        </div>
-                        <div class="contact-btn tr-bottom">
-                            <a class="btn-2" href="#">Let's discuss yours...</a>
-                        </div>    
-    
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- contact end -->
+
 
     <?php
+        include 'section/contact.php';
         include 'section/work.php';
     ?>
 
@@ -111,9 +83,9 @@
                 <div class="col-lg wow fadeInUp">
 
                     <div class="testimonial-article">
-                        <p>
+                        <p class="text-left">
                             <i class="fas fa-quote-left"></i>
-                            Having spent a considerable amount of time searching for a competent web designer I came across Amasci Creative Limited and have been extremely pleased that I decided to make contact with them. The team at Amasci spent time to understand our business to ensure that their ideas and style fitted with our vision for the business. The team is extremely competent and approachable and they are always available at the end of the phone. Is clear that they take a long term view with their approach managing our web resource and I am confident that as time goes on their commitment to us will be as good as it was on the day they first started working with us. I have absolutely no hesitation in recommending Amasci Creative.
+                            As a small business just starting out, Amasci took all of the worry away from the design of my website. I was amazed at the quick response times, the creativity of the design and the general help and support throughout the building and development of the site. I’ve had some fantastic comments from customers, friends and family regarding the design of the website and I can’t really take any credit for that - it was all down to Amasci!
                         </p>
                         <span class="name">David Manley, Director</span>
                         <span class="company">

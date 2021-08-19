@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/animate.css">
     <link rel="stylesheet" href="assets/css/slick.css" />
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="stylesheet" href="assets/css/nouislider.min.css">
 
     <!-- Main CSS -->
     <link rel="stylesheet" href="assets/css/style.css" />

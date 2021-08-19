@@ -20,7 +20,7 @@
                 <div class="col-lg">
                     <div class="banner-service-area">
                         <h2>Our Service</h2>
-                        <p>
+                        <p style="max-width: 675px;">
                             We love making beautiful, digital experiences that reward businesses. So whatever stage you’re at, we’ll be happy to guide you through them.
                         </p>
                     </div>

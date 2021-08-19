@@ -36,7 +36,7 @@
 
     <!-- about-contact start -->
     <section class="about-contact">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-lg-7 col-md-12">
                     <div class="about-contact-area">
@@ -99,7 +99,7 @@
 
     <!-- about-testi start -->
     <section class="about-testi">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-lg">
                     <div class="about-testi-area">
@@ -168,21 +168,21 @@
         <div class="about-counter">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                         <div class="about-count-area">
                             <p>10<sup>+</sup></p>
                             <span class="title">Years of trading</span>
                             <span>with 8 years as a limited company</span>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                         <div class="about-count-area">
                             <p>288</p>
                             <span class="title">Websites Launched</span>
                             <span>with over 390 completed projects</span>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="col-lg-4 col-md-4 col-sm-12 wow fadeInUp">
                         <div class="about-count-area">
                             <p>50<sup>+</sup></p>
                             <span class="title">Client Partnerships</span>
@@ -196,139 +196,241 @@
     <!-- about-counter end -->
 
 
-    <!-- about-team-work start -->
-    <section class="team-work">
+        <!-- team work start -->
+        <section class="team-work" style="padding-bottom: 120px;">
         <div class="section-heading">
             <h2>HOW WE WORK</h2>
         </div>
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".1s"> 
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".1s">
                     <div class="team-area">
                         <div class="team-icon">
-                            <a href="#"><i class="fas fa-book-open"></i></a>
+                            <img src="assets/images/Planning-01.png" alt="pp">
                         </div>
                         <div class="team-text">
                             <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p>From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".2s"> 
-                    <div class="team-area">
-                        <div class="team-icon">
-                            <a href="#">
-                                <i class="fas fa-pencil-ruler"></i>
-                            </a>
-                        </div>
-                        <div class="team-text">
-                            <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p>From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay=".3s"> 
-                    <div class="team-area">
-                        <div class="team-icon">
-                            <a href="#"><i class="fas fa-hands"></i></a>
-                        </div>
-                        <div class="team-text">
-                            <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p>From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".4s"> 
-                    <div class="team-area">
-                        <div class="team-icon">
-                            <a href="#"><i class="fas fa-book-open"></i></a>
-                        </div>
-                        <div class="team-text pb">
-                            <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p class="para">From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".5s"> 
-                    <div class="team-area">
-                        <div class="team-icon">
-                            <a href="#">
-                                <i class="fas fa-pencil-ruler"></i>
-                            </a>
-                        </div>
-                        <div class="team-text pb">
-                            <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p class="para">From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4 col-md-12 my wow fadeInUp" data-wow-delay=".6s"> 
-                    <div class="team-area">
-                        <div class="team-icon">
-                            <a href="#"><i class="fas fa-hands"></i></a>
-                        </div>
-                        <div class="team-text pb">
-                            <h3>Planning & Strategy </h3>
-                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.</p>
-                            <p class="para">From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.</p>
-                        </div>
-                    </div>
-                </div>
-
-
-            </div>
-
-
-        </div>
-    </section>
-
-    <!-- about-team-work end -->
-
-
-
-    <!-- contact start -->
-    <section class="contact t-top">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg">
-                    <div class="contact-area text-center">
-                        <div class="contact-text">
-                            <p>
-                                <strong>Every project is different and we’d love to hear about yours</strong>
+                            <p>During this stage we will spend time getting to know you and your company; identifying your needs and requirements; before establishing and agreeing a strategy.
                                 <br>
-                                Get in touch today to find out how we can help…
+                                <br>
+                                From the information gathered, we will then produce a detailed proposal outlining the process, cost, methods and approach to be employed.
                             </p>
                         </div>
-                        <div class="contact-mail">
-                            <ul>
-                                <li class="phone"><a href="#">01908 668 665</a></li>
-                                <li class="mail"><a href="#">creative@amasci.co.uk</a></li>
-                            </ul>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".2s">
+                    <div class="team-area">
+                        <div class="team-icon">
+                            <img src="assets/images/Webdesign.png" alt="web">
                         </div>
-                        <div class="contact-btn tr-bottom">
-                            <a class="btn-2" href="#">Let's discuss yours...</a>
-                        </div>    
-    
+                        <div class="team-text">
+                            <h3>Web Design </h3>
+                            <p>
+                            Once the initial proposal has been agreed, we get to work on the website design phase; taking into consideration your main project objectives and target audience.
+<br>
+<br>
+We will discuss a proposed direction with regards to the overall design, style and formatting; before focusing on designing the first phase concepts.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".3s">
+                    <div class="team-area">
+                        <div class="team-icon">
+                        <img src="assets/images/Website-development.png" alt="web">
+                        </div>
+                        <div class="team-text">
+                            <h3>Website Development</h3>
+                            <p>
+                            This stage in the process will vary depending on the type of project; but we will work closely with you throughout; discussing ideas, gaining your input and making any alterations or developments in light of your feedback.
+                            <br>
+                            <br>
+                            We will use our expertise to build and create the perfect website solution for your business
+                                                        </p>
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".4s">
+                    <div class="team-area">
+                        <div class="team-icon">
+                        <img src="assets/images/Website-development.png" alt="web">
+                        </div>
+                        <div class="team-text">
+                            <h3>Delivery</h3>
+                            <p>
+                            At Amasci Creative, we go that extra mile to ensure that the service we provide for you is extra special, giving real care and attention to every last detail.
+<br>
+<br>
+We want the experience you have with us to be a happy and positive one; and this involves having regular contact with you and acting upon the feedback we receive; thus, ensuring that you are delighted with the final product.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".5s">
+                    <div class="team-area">
+                        <div class="team-icon">
+                        <img src="assets/images/Website-development.png" alt="web">
+                        </div>
+                        <div class="team-text">
+                            <h3>Ongoing Support</h3>
+                            <p>
+                            Customer satisfaction is at the heart of everything that we do and we believe that this is achieved through the personalised and ongoing support that we give to you.
+<br>
+<br>
+We want to build effective and successful relationships with our clients and can offer a range of services, including maintenance and retainer packages, to ensure that your website and business continues to prosper.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 wow fadeInUp pb-3" data-wow-delay=".6s">
+                    <div class="team-area">
+                        <div class="team-icon">
+                        <img src="assets/images/Website-development.png" alt="web">
+                        </div>
+                        <div class="team-text">
+                            <h3>Growing your Business</h3>
+                            <p>
+                            We pride ourselves in knowing how to build successful working relationships and the services we provide will contribute to helping you grow your own business and create effective partnerships with your customers.
+<br>
+<br>
+Your growth is important to you, but it is equally important to us. Let’s face it, your success will hopefully lead to future collaborations and shiny happy customers!
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+
+               
+
+
+
+        </div>
+    </section>
+    <!-- team work end -->
+
+
+
+
+    <?php
+        include 'section/contact.php';
+    ?>
+
+    <!-- footer start -->
+<footer class="footer-top t-bottom" style="margin-top: 5px;">
+        <div class="container pb-5">
+            <div class="row">
+                <div class="col-lg-6 col-md-6">
+                    <div class="footer-top-area">
+                        <div class="footer-top-logo wow fadeInUp">
+                            <a href="index.php">
+                                <img src="assets/images/logo.png" alt="logo" />
+                            </a>
+                        </div>
+                        <div class="footer-top-contact wow fadeInUp" data-wow-delay=".1s">
+                            <ul>
+                                <li class="phone"><a href="#">061 542 9391</a></li>
+                                <li class="mail"><a href="#">creative@nexsus.co.za</a></li>
+                            </ul>
+                            <p>
+                            Address : 29 Coedmore Road, Bellair, Durban, Kwa-Zulu Natal. South Africa			
+                            </p>
+                        </div>
+                        <div class="footer-top-list">
+                            <h3 class="wow fadeInUp">Follow us</h3>
+                            <ul class="d-flex">
+                                <li class="wow fadeInUp" data-wow-delay=".2s">
+                                    <a href="#"><i class="fab fa-twitter"></i></a>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay=".3s">
+                                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay=".4s">
+                                    <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay=".5s">
+                                    <a href="#"><i class="fab fa-chrome"></i></a>
+                                </li>
+                                <li class="wow fadeInUp" data-wow-delay=".6s">
+                                    <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                </li>
+                            </ul>        
+                        </div>
+
+
+                    </div>
+                </div>
+
+                <div class="col-lg-6 col-md-6 pt-3">
+                    <div class="footer-top-article">
+                        <div class="footer-top-text wow fadeInUp">
+                            <h3>The legals</h3>
+
+                            <p>
+                            Nexsus Business Solutions (Pty) Ltd is registered in South Africa <br>
+                         Company Number : K2013181999
+
+                            </p>			
+                            <p>
+                            Website &copy; Nexsus Creative 2013 – 2021 <br>
+                            Nexsus Creative is a web design and digital marketing agency based in Kwa-Zulu Natal, South Africa
+
+
+                            </p>
+                        </div>
+
+                       
+
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    <!-- contact end -->
+
+        <nav>
+            <div class="container">
+                <div class="nav-list d-flex">
+                    <ul class="d-flex wow fadeIn">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About</a></li>
+                        <li><a href="#">Ai eShots</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Our Work</a></li>
+                        <li><a href="#">Testimonial</a></li>
+                        <li><a href="#">News</a></li>
+                        <li><a href="#">Careers</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                    <div class="nav-btn d-none d-lg-block wow fadeIn">
+                        <a class="btn-sm" href="#">Webmail Login</a>
+                        <a class="btn-sm" href="#">Ai eShots Login</a>
+                    </div>
+                </div>
+                <div class="nav-terms">
+                    <ul class="d-flex wow fadeIn">
+                        <li><a href="#">Hosting</a></li>
+                        <li><a href="#">Domains</a></li>
+                        <li><a href="#">Cookies</a></li>
+                        <li><a href="#">Privacy</a></li>
+                        <li><a href="#">Terms of Use</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+    </footer>
+    <!-- footer end -->
+    
 
     <?php
-        include 'include/footer.php';
+        // include 'include/footer.php';
         include 'include/script.php';
     ?>
 

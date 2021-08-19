@@ -1,25 +1,21 @@
 <!-- footer start -->
 <footer class="footer-top t-bottom">
-        <div class="container">
+        <div class="container pb-5">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="footer-top-area">
                         <div class="footer-top-logo wow fadeInUp">
                             <a href="index.php">
-                                <img src="assets/images/logo-white.svg" alt="logo" />
+                                <img src="assets/images/logo.png" alt="logo" />
                             </a>
                         </div>
                         <div class="footer-top-contact wow fadeInUp" data-wow-delay=".1s">
                             <ul>
-                                <li class="phone"><a href="#">01908 668 665</a></li>
-                                <li class="mail"><a href="#">creative@amasci.co.uk</a></li>
+                                <li class="phone"><a href="#">061 542 9391</a></li>
+                                <li class="mail"><a href="#">creative@nexsus.co.za</a></li>
                             </ul>
                             <p>
-				                Corner House, 
-                                4 Roslyn Court, 
-                                Willen, Milton Keynes, 
-                                Buckinghamshire, 
-                                MK15 9LA			
+                            Address : 29 Coedmore Road, Bellair, Durban, Kwa-Zulu Natal. South Africa			
                             </p>
                         </div>
                         <div class="footer-top-list">
@@ -47,30 +43,25 @@
                     </div>
                 </div>
 
-                <div class="col-lg-6 col-md-6">
+                <div class="col-lg-6 col-md-6 pt-3">
                     <div class="footer-top-article">
                         <div class="footer-top-text wow fadeInUp">
                             <h3>The legals</h3>
 
                             <p>
-                                Amasci Creative Limited is registered in England and Wales Company number 6559198 and VAT number GB 910 0251 90
+                            Nexsus Business Solutions (Pty) Ltd is registered in South Africa <br>
+                         Company Number : K2013181999
+
                             </p>			
                             <p>
-                                Website © Amasci Creative Limited 2014 - 2021
-                                Amasci Creative Limited is a web design and digital marketing agency based in Milton Keynes, Buckinghamshire
+                            Website &copy; Nexsus Creative 2013 – 2021 <br>
+                            Nexsus Creative is a web design and digital marketing agency based in Kwa-Zulu Natal, South Africa
+
+
                             </p>
                         </div>
 
-                        <div class="footer-top-content d-flex wow fadeInUp">
-                            <div class="footer-bottom-logo">
-                                <img src="assets/images/logo-web-guild-white.svg" alt="logo" />
-                            </div>
-                            <div class="footer-top-para">
-                                <p>
-                                    We are accredited members of The Web Guild.<br><strong>Fully Accredited Members</strong>.
-                                </p>
-                            </div>
-                        </div>
+                       
 
                     </div>
                 </div>
@@ -110,4 +101,5 @@
 
     </footer>
     <!-- footer end -->
+    
     
