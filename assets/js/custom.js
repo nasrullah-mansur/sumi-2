@@ -45,7 +45,18 @@ $('.contact-form .project .checkbox label').on('click', function() {
   } else {
     $(this).removeClass('active');
   }
-})
+});
+
+
+function cutPest() {
+  $('#sidebar').clone().appendTo('#mobile-show');
+  $('.sidebar-area #sidebar').remove();
+}
+
+
+if($(window).width() < 992) {
+  cutPest();
+}
 
   
 });

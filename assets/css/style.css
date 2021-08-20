@@ -73,6 +73,7 @@ body {
   color: var(--bcolor);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  scroll-behavior: smooth;
 }
 
 @media (min-width: 1300px) {
@@ -2815,3 +2816,62 @@ footer.no-after::after {
 .news-details .news-related-social ul li .linkedin i  {
   color: var(--white);
 }
+
+
+.term-content {
+  padding: 60px 0;
+}
+
+.term-content h1,
+.term-content h2,
+.term-content p
+{
+  color: #666;
+}
+
+.term-content .heading h1 {
+  font-size: 32px;
+}
+
+.term-content .heading p {
+  font-size: 15px;
+}
+
+.term-content .heading p a {
+  color: var(--primary-color);
+}
+
+.term-content .content h2 {
+  font-size: 28px;
+  font-weight: 400;
+  padding-bottom: 30px;
+  padding-top: 50px;
+}
+
+.term-content .content p {
+  font-size: 15px;
+}
+
+.term-content .content p a {
+  color: var(--primary-color);
+}
+
+.term-content .sidebar {
+  padding: 40px;
+  background-color: #EAEAEA;
+}
+
+.term-content .sidebar h2 {
+  font-size: 21px;
+  line-height: 32px;
+  padding-bottom: 15px;
+}
+
+.term-content .sidebar ul li a {
+  color: var(--primary-color);
+  display: block;
+  font-size: 15px;
+  line-height: 30px;
+}
+
+
