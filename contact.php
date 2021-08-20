@@ -281,7 +281,7 @@
 
     <!-- footer start -->
 <footer class="footer-top t-bottom mt-0 no-after">
-        <div class="container pb-5">
+<div class="container pb-5">
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="footer-top-area">
@@ -353,15 +353,13 @@
             <div class="container">
                 <div class="nav-list d-flex">
                     <ul class="d-flex wow fadeIn">
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About</a></li>
-                        <li><a href="#">Ai eShots</a></li>
-                        <li><a href="#">Services</a></li>
-                        <li><a href="#">Our Work</a></li>
-                        <li><a href="#">Testimonial</a></li>
-                        <li><a href="#">News</a></li>
-                        <li><a href="#">Careers</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php">About</a></li>
+                        <li><a href="service.php">Services</a></li>
+                        <li><a href="our-work.php">Our Work</a></li>
+                        <li><a href="testimonial.php">Testimonial</a></li>
+                        <li><a href="news.php">News</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                     <div class="nav-btn d-none d-lg-block wow fadeIn">
                         <a class="btn-sm" href="#">Webmail Login</a>
@@ -370,15 +368,16 @@
                 </div>
                 <div class="nav-terms">
                     <ul class="d-flex wow fadeIn">
-                        <li><a href="#">Hosting</a></li>
-                        <li><a href="#">Domains</a></li>
-                        <li><a href="#">Cookies</a></li>
-                        <li><a href="#">Privacy</a></li>
-                        <li><a href="#">Terms of Use</a></li>
+                        <li><a href="assets/pdf/conditions.pdf" target="_blank">Hosting</a></li>
+                        <li><a href="domain.php">Domains</a></li>
+                        <li><a href="cookies.php">Cookies</a></li>
+                        <li><a href="privacy.php">Privacy</a></li>
+                        <li><a href="terms.php">Terms of Use</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
+
 
     </footer>
     <!-- footer end -->
